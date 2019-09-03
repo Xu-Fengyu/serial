@@ -37,7 +37,12 @@ Get the code:
     git clone https://github.com/wjwwood/serial.git
 
 Build:
-
+    mkdir build
+    
+    cd build
+    
+    cmake
+    
     make
 
 Build and run the tests:
